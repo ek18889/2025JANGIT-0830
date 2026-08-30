@@ -4,5 +4,8 @@ def first_method():
 def second_method():
     pass
 
+def main_meth():
+    pass
+
 def third_method():
     pass
