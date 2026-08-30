@@ -3,3 +3,6 @@ def first_method():
 
 def second_method():
     pass
+
+def third_method():
+    pass
