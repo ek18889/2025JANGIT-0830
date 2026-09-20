@@ -1,5 +1,6 @@
 import csv
 #adding main lines here.
+#adding second line
 FILE1 = "file1.csv"
 FILE2 = "file2.csv"
 OUTPUT = "output.csv"
